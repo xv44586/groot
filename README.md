@@ -1,6 +1,8 @@
 # groot
 私有化部署/低成本/中文优先的ChatGPT 平替
 
+![groot](./assets/groot.jpg)
+
 # TODO
 1. 开源模型列表
 2. 低成本server
